@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://coolguy3.github.io/guy-blog/"
 languageCode = "zh-Hans"
 title = "guy's Blog."
 theme = "hugo-nuo"
