@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>guy&#39;s Blog.</title>
-    <link>https://coolguy3.github.io/guy-blog/</link>
-    <description>Recent content on guy&#39;s Blog.</description>
+    <title>Git on guy&#39;s Blog.</title>
+    <link>https://coolguy3.github.io/guy-blog/tags/git/</link>
+    <description>Recent content in Git on guy&#39;s Blog.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
-    <lastBuildDate>Mon, 19 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Mar 2018 10:38:20 +0800</lastBuildDate>
     
-	<atom:link href="https://coolguy3.github.io/guy-blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://coolguy3.github.io/guy-blog/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>关于</title>
-      <link>https://coolguy3.github.io/guy-blog/about/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://coolguy3.github.io/guy-blog/about/</guid>
-      <description>guy(gay)(凯)
-这是他喜欢听的歌👇
-  这个人超懒的，就留下那么一点东西😱
- </description>
-    </item>
     
     <item>
       <title>使用Hugo&#43;Github Pages搭建个人独立博客</title>
@@ -41,19 +29,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://coolguy3.github.io/guy-blog/post/0-hello-world/</link>
-      <pubDate>Mon, 19 Mar 2018 09:51:32 +0800</pubDate>
-      
-      <guid>https://coolguy3.github.io/guy-blog/post/0-hello-world/</guid>
-      <description>guy首家线上Blog上线啦！！！
-性感博主，在线丢人😅
-希望借此做好技术积累，锻炼表达能力
-欢迎和谐指教~
-  Hello World   </description>
     </item>
     
   </channel>
