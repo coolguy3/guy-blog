@@ -247,6 +247,8 @@
 在Win10下载解压Hugo后只有一个hugo.exe可执行文件，将该文件路径添加到环境变量，就可以用cmd操作了。接着按照<a href="https://gohugo.io/getting-started/">官方入门文档</a>，即可轻松生成一个带主题的静态示例网页并可在本地运行和访问。</p>
 
 <h2 id="命令行操作">命令行操作</h2>
+
+<p>Hugo的命令行操作很简单，常用的有以下三条：</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh"><span style="color:#75715e"># 以archetypes文件夹下的defaul.md为模板，生成filename.md存放在content\post目录下
 </span><span style="color:#75715e"></span>hugo new post/filename.md
 
@@ -257,7 +259,7 @@
 </span><span style="color:#75715e"></span>hugo server -D</code></pre></div>
 <h2 id="托管">托管</h2>
 
-<p>托管的最佳实践是将静态博客同步托管在Github Pages和Coding Pages上，买一个域名，用 <code>DNSPod</code> 做国内外分流，国内访问走 Coding Pages，国外走GitHub Pages，可解决Github在国内不稳定、访问慢、被百度蜘蛛屏蔽等问题。目前只是托管在Github Pages，其他以后再折腾。</p>
+<p>托管的最佳实践是将静态博客同步托管在<a href="https://pages.github.com/">Github Pages</a>和<a href="https://coding.net/pages/">Coding Pages</a>上，买一个域名，用 <code>DNSPod</code> 做国内外分流，国内访问走 Coding Pages，国外走GitHub Pages，可解决Github在国内不稳定、访问慢、被百度蜘蛛屏蔽等问题。目前只是托管在Github Pages，其他以后再折腾。</p>
 
 <p>Github Pages分两种：</p>
 
@@ -386,6 +388,16 @@ ga('send', 'pageview');
 <script async src='//www.google-analytics.com/analytics.js'></script>
 
 
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?593540810fe9272ed0e84311651cad05";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
 
 
 
